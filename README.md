@@ -27,21 +27,27 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 ![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=next.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Nuxt-informational?style=flat&logo=nuxt&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Nuxt-informational?style=flat&logo=nuxt.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Nest-informational?style=flat&logo=nest&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Nest-informational?style=flat&logo=nest.js&logoColor=white&color=3bac3a)
 
 
 #### Blockchain
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Polygon-informational?style=flat&logo=polygon&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Vyper-informational?style=flat&logo=vyper&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust language&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Library-Web3-informational?style=flat&logo=web3&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Library-Ether-informational?style=flat&logo=ether&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 
 #### Other
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
