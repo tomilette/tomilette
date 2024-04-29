@@ -47,10 +47,12 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 ![](https://img.shields.io/badge/Hugging#20Face-8A2BE2)
 ![](https://img.shields.io/badge/ML-8A2BE2)
 ![](https://img.shields.io/badge/RAG-8A2BE2)
-![](https://img.shields.io/badge/Chroma#20DB-8A2BE2)
+![](https://img.shields.io/badge/Chroma%20DB-8A2BE2)
+![](https://img.shields.io/badge/...-8A2BE2)
 
 #### Other
 ![](https://img.shields.io/badge/CI/CD-2a32ae)
 ![](https://img.shields.io/badge/Docker-2a32ae)
 ![](https://img.shields.io/badge/Git-2a32ae)
 ![](https://img.shields.io/badge/AWS-2a32ae)
+![](https://img.shields.io/badge/...-2a32ae)
