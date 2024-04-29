@@ -21,19 +21,19 @@ I am passionate about pushing the boundaries of what's possible in software deve
 continuing my journey of growth and innovation in the dynamic landscape of technology.
 
 #### Full Stack
-![](https://img.shields.io/badge/Frontend-React%20/%20Vue%20/%20Angular%20/%20Electron%20/%20Ionic%20/%20Next%20/%20Nuxt%20/%20ReactNative-informational?style=flat&&logoColor=white&color=2c760c)
+![](https://img.shields.io/badge/Frontend-React%20/%20Vue%20/%20Angular%20/%20Electron%20/%20Ionic%20/%20Next%20/%20Nuxt%20/%20ReactNative%20/%20...-informational?style=flat&&logoColor=white&color=2c760c)
 
-![](https://img.shields.io/badge/Backend-Express%20/%20Nest%20/%20Koa%20/%20Django%20/%20Flask%20/%20FastAPI%20/%20Rails%20/%20Gin%20/%20Echo-informational?style=flat&logoColor=white&color=2c760c)
+![](https://img.shields.io/badge/Backend-Express%20/%20Nest%20/%20Koa%20/%20Django%20/%20Flask%20/%20FastAPI%20/%20Rails%20/%20Gin%20/%20Echo%20/%20...-informational?style=flat&logoColor=white&color=2c760c)
 
-![](https://img.shields.io/badge/Database-MySQL%20/%20PostgreSQL%20/%20MongoDB%20/%20SQLite-informational?style=flat&logoColor=white&color=2c760c)
+![](https://img.shields.io/badge/Database-MySQL%20/%20PostgreSQL%20/%20MongoDB%20/%20SQLite%20/%20...-informational?style=flat&logoColor=white&color=2c760c)
 
 
 #### Blockchain
-![](https://img.shields.io/badge/Network-Ethereum%20/%20Solana%20/%20Polygon%20/%20Bitcoin-informational?style=flat&logoColor=white&color=79981f)
+![](https://img.shields.io/badge/Network-Ethereum%20/%20Solana%20/%20Polygon%20/%20Bitcoin%20/%20...-informational?style=flat&logoColor=white&color=79981f)
 
-![](https://img.shields.io/badge/Library-Web3%20/%20Ether-informational?style=flat&logoColor=white&color=79981f)
+![](https://img.shields.io/badge/Library-Web3%20/%20Ether%20/%20...-informational?style=flat&logoColor=white&color=79981f)
 
-![](https://img.shields.io/badge/Token-ERC20%20/%20ERC721%20/%20ERC1155%20/%20ERC4626-informational?style=flat&logoColor=white&color=79981f)
+![](https://img.shields.io/badge/Token-ERC20%20/%20ERC721%20/%20ERC1155%20/%20ERC4626%20/%20...-informational?style=flat&logoColor=white&color=79981f)
 
 
 #### AI
