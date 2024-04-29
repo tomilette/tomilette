@@ -22,7 +22,7 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 
 #### Full Stack
 ![](https://img.shields.io/badge/Frontend-React/Vue/Angular/Electron/Ionic/Next/Nuxt/ReactNative-informational?style=flat&logo=Free%20Frontend&logoColor=white&color=2c760c)
-![](https://img.shields.io/badge/Backend-Express / Django / Flask / Nest-informational?style=flat&logo=Free%20Frontend&logoColor=white&color=2c760c)
+![](https://img.shields.io/badge/Backend-Express%20/%20Django%20/%20Flask%20/%20Nest-informational?style=flat&logo=Free%20Frontend&logoColor=white&color=2c760c)
 
 
 #### Blockchain
