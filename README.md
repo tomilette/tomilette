@@ -21,7 +21,7 @@ I am passionate about pushing the boundaries of what's possible in software deve
 continuing my journey of growth and innovation in the dynamic landscape of technology.
 
 #### Full Stack
-![](https://img.shields.io/badge/FrontEnd-React/Vue/Angular/Electron/Ionic/Next/Nuxt/ReactNative-informational?style=flat&logo=Free\ Frontend&logoColor=white&color=79981f)
+![](https://img.shields.io/badge/FrontEnd-React/Vue/Angular/Electron/Ionic/Next/Nuxt/ReactNative-informational?style=flat&logo=Free%20Frontend&logoColor=white&color=79981f)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=79981f)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=79981f)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=79981f)
