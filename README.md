@@ -42,7 +42,7 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 ![](https://img.shields.io/badge/Network-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Vyper-informational?style=flat&logo=vyper&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust language&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Library-Web3-informational?style=flat&logo=web3&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Library-Ether-informational?style=flat&logo=ether&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
