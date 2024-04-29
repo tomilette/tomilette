@@ -29,7 +29,7 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 
 
 #### Blockchain
-![](https://img.shields.io/badge/Network-Ethereum%20/%20/%20Solana%20/%20Polygon%20/%20Bitcoin-informational?style=flat&logoColor=white&color=79981f)
+![](https://img.shields.io/badge/Network-Ethereum%20/%20Solana%20/%20Polygon%20/%20Bitcoin-informational?style=flat&logoColor=white&color=79981f)
 
 ![](https://img.shields.io/badge/Library-Web3%20/%20Ether-informational?style=flat&logoColor=white&color=79981f)
 
