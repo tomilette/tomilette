@@ -32,7 +32,7 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=rails&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Nest-informational?style=flat&logo=nest&logoColor=white&color=3bac3a)
 
 
 #### Blockchain
