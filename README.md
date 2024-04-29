@@ -43,6 +43,11 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 ![](https://img.shields.io/badge/RNN-8A2BE2)
 ![](https://img.shields.io/badge/Transformers-8A2BE2)
 ![](https://img.shields.io/badge/OpenCV-8A2BE2)
+![](https://img.shields.io/badge/OpenAI-8A2BE2)
+![](https://img.shields.io/badge/Hugging#20Face-8A2BE2)
+![](https://img.shields.io/badge/ML-8A2BE2)
+![](https://img.shields.io/badge/RAG-8A2BE2)
+![](https://img.shields.io/badge/Chroma0x20DB-8A2BE2)
 
 #### Other
 ![](https://img.shields.io/badge/CI/CD-2a32ae)
