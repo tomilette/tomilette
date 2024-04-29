@@ -22,7 +22,9 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 
 #### Full Stack
 ![](https://img.shields.io/badge/Frontend-React%20/%20Vue%20/%20Angular%20/%20Electron%20/%20Ionic%20/%20Next%20/%20Nuxt%20/%20ReactNative-informational?style=flat&&logoColor=white&color=2c760c)
+
 ![](https://img.shields.io/badge/Backend-Express%20/%20Nest%20/%20Koa%20/%20Django%20/%20Flask%20/%20FastAPI%20/%20Rails%20/%20Gin%20/%20Echo-informational?style=flat&logoColor=white&color=2c760c)
+
 ![](https://img.shields.io/badge/Database-MySQL%20/%20PostgreSQL%20/%20MongoDB%20/%20SQLite-informational?style=flat&logoColor=white&color=2c760c)
 
 
