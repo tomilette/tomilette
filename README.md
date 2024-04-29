@@ -27,15 +27,9 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 
 
 #### Blockchain
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=79981f)
-![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=79981f)
-![](https://img.shields.io/badge/Network-Polygon-informational?style=flat&logo=polygon&logoColor=white&color=79981f)
-![](https://img.shields.io/badge/Network-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=79981f)
-![](https://img.shields.io/badge/Library-Web3-informational?style=flat&logo=web3&logoColor=white&color=79981f)
-![](https://img.shields.io/badge/Library-Ether-informational?style=flat&logo=ether&logoColor=white&color=79981f)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=79981f)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=79981f)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=79981f)
+![](https://img.shields.io/badge/Network-Ethereum%20/%Solana%20/%Polygon%20/%Bitcoin-informational?style=flat&logoColor=white&color=79981f)
+![](https://img.shields.io/badge/Library-Web3%20/%Ether-informational?style=flat&logoColor=white&color=79981f)
+![](https://img.shields.io/badge/Token-ERC20%20/%ERC721/%ERC1155-informational?style=flat&logoColor=white&color=79981f)
 
 
 #### AI
