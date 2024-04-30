@@ -51,29 +51,6 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 ![](https://img.shields.io/badge/...-8A2BE2)
 
 
-#### Language
-![](https://img.shields.io/badge/Assembly-2a32ae)
-![](https://img.shields.io/badge/C-2a32ae)
-![](https://img.shields.io/badge/C++-2a32ae)
-![](https://img.shields.io/badge/C#-2a32ae)
-![](https://img.shields.io/badge/Qt-2a32ae)
-![](https://img.shields.io/badge/Java-2a32ae)
-![](https://img.shields.io/badge/Python-2a32ae)
-![](https://img.shields.io/badge/Perl-2a32ae)
-![](https://img.shields.io/badge/HTML/CSS-2a32ae)
-![](https://img.shields.io/badge/SQL-2a32ae)
-![](https://img.shields.io/badge/PHP-2a32ae)
-![](https://img.shields.io/badge/Lua-2a32ae)
-![](https://img.shields.io/badge/JavaScript-2a32ae)
-![](https://img.shields.io/badge/TypeScript-2a32ae)
-![](https://img.shields.io/badge/Go-2a32ae)
-![](https://img.shields.io/badge/Kotlin-2a32ae)
-![](https://img.shields.io/badge/Rust-2a32ae)
-![](https://img.shields.io/badge/Solidity-2a32ae)
-![](https://img.shields.io/badge/Vyper-2a32ae)
-![](https://img.shields.io/badge/...-2a32ae)
-
-
 #### Other
 ![](https://img.shields.io/badge/CI/CD-2a32ae)
 ![](https://img.shields.io/badge/Docker-2a32ae)
@@ -86,3 +63,27 @@ continuing my journey of growth and innovation in the dynamic landscape of techn
 ![](https://img.shields.io/badge/Sentry-2a32ae)
 ![](https://img.shields.io/badge/Grafana-2a32ae)
 ![](https://img.shields.io/badge/...-2a32ae)
+
+
+#### Language
+![](https://img.shields.io/badge/Assembly-1fa41f)
+![](https://img.shields.io/badge/C-1fa41f)
+![](https://img.shields.io/badge/C++-1fa41f)
+![](https://img.shields.io/badge/C#-1fa41f)
+![](https://img.shields.io/badge/Qt-1fa41f)
+![](https://img.shields.io/badge/Java-1fa41f)
+![](https://img.shields.io/badge/Python-1fa41f)
+![](https://img.shields.io/badge/Perl-1fa41f)
+![](https://img.shields.io/badge/HTML/CSS-1fa41f)
+![](https://img.shields.io/badge/SQL-1fa41f)
+![](https://img.shields.io/badge/PHP-1fa41f)
+![](https://img.shields.io/badge/Lua-1fa41f)
+![](https://img.shields.io/badge/JavaScript-1fa41f)
+![](https://img.shields.io/badge/TypeScript-1fa41f)
+![](https://img.shields.io/badge/Go-1fa41f)
+![](https://img.shields.io/badge/Kotlin-1fa41f)
+![](https://img.shields.io/badge/Rust-1fa41f)
+![](https://img.shields.io/badge/Solidity-1fa41f)
+![](https://img.shields.io/badge/Vyper-1fa41f)
+![](https://img.shields.io/badge/...-1fa41f)
+
