@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software engineer and developer with a background spanning over 8 years in full-stack development.
-In addition, I bring over 4 years of specialized expertise in the fields of blockchain and artificial intelligence.
-
 I am passionate about pushing the boundaries of what's possible in software development and am committed to 
 continuing my journey of growth and innovation in the dynamic landscape of technology.
 
